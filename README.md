@@ -19,7 +19,7 @@ http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet (for getti
 https://highon.coffee/blog/reverse-shell-cheat-sheet/
 
 # Privilege Escalation 
-1. 
+1. Windows PE
 
 http://www.fuzzysecurity.com/tutorials/16.html
 
