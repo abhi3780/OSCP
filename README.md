@@ -2,7 +2,8 @@
 ** This repo consists of important links (or URLs) which were bookmarked during my journey of OSCP Certification **
 
 !! Note !!
- ** Most of my links were SPOLIERS :P !!!**
+
+** Most of my links were SPOLIERS :P !!!**
                                             
 
 #Reverse and Bind Shell tutorials
