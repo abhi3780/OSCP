@@ -32,13 +32,15 @@ https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
  
 # Buffer Overflow 
 
-What is buffer-overflow
+Q) What is buffer-overflow
+
 https://www.youtube.com/watch?v=TsQufuT80uc
 
   # For Practicing
-  1. Vanilla EIP 
+  1. Vanilla EIP >>
 http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/
-  2. SL Mail
+
+  2. SL Mail >>
 https://www.youtube.com/watch?v=Pi51KlEulj4
  
 # MD5 Decrypter 
@@ -53,7 +55,8 @@ https://pinboard.in/u:unfo/t:oscp
 
 # LFI _ Practise 
 
-1. Coldfusion
+1. Coldfusion >>
+
 http://hatriot.github.io/blog/2014/04/02/lfi-to-stager-payload-in-coldfusion/
 
 https://www.slideshare.net/chrisgates/coldfusion-for-penetration-testers
