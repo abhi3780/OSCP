@@ -1,7 +1,9 @@
 # OSCP
-This repo consists of important links (or URLs) which were bookmarked during my journey of OSCP Certification.
+** This repo consists of important links (or URLs) which were bookmarked during my journey of OSCP Certification **
 
-                                               ** Most of my links were SPOLIERS :P !!!**
+!! Note !!
+ ** Most of my links were SPOLIERS :P !!!**
+                                            
 
 #Reverse and Bind Shell tutorials
 
