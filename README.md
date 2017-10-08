@@ -38,13 +38,13 @@ https://www.exploit-db.com/exploits/40839/
 
 https://www.youtube.com/watch?v=iyhbLeOzegM
 
-# Buffer Overflow 
+# Buffer Overflow (BO)
 
 Q) What is buffer-overflow
 
 https://www.youtube.com/watch?v=TsQufuT80uc
 
-  # For Practicing
+    # For Practicing (BO)
   1. Vanilla EIP >>
 http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/
 
@@ -109,6 +109,12 @@ https://www.rapid7.com/db/modules/exploit/linux/ftp/proftp_telnet_iac
 # Oracle 9i XDB - HTTP PASS Overflow
 
 https://www.exploit-db.com/exploits/16809/
+
+# SMTP & POP3 / AUTH LOGIN 
+
+http://www.suburbancomputer.com/tips_email.htm
+
+https://www.ndchost.com/wiki/mail/test-smtp-auth-telnet
 
 
 To be Cont.......
