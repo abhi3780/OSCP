@@ -50,6 +50,10 @@ http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-o
 
   2. SL Mail >>
 https://www.youtube.com/watch?v=Pi51KlEulj4
+
+# Buffer Overflow Python Script
+
+https://gist.github.com/abhi3780/9ca5b778a128d6bd259b06efc273b78a
  
 # MD5 Decrypter 
 https://hashkiller.co.uk/md5-decrypter.aspx
